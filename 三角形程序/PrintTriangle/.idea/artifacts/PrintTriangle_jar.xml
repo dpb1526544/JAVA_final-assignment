@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="PrintTriangle:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/PrintTriangle_jar</output-path>
-    <root id="archive" name="PrintTriangle.jar">
-      <element id="module-output" name="PrintTriangle" />
-    </root>
-  </artifact>
-</component>
